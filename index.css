@@ -3,7 +3,7 @@ body {
 }/* light-mode */
 
 .rectangle{
-    background-color: #6943FF;
+    background-color: #515a01ff;
     height:285px;
     margin: auto;
     padding:10px 10px;
@@ -44,14 +44,14 @@ button{
 input{
    background-color: transparent;
    color: white; 
-   width: 60px;
+   width: 70px;
    border-style: none;
-   padding-left: 20px;
+   padding-left: 10px;
    font-size: 40px;
 }
 
 .card {
-  background: #ffffff;        /* white background */
+  background: #3e158aff;        /* white background */
   padding: 20px;
   border-radius: 8px;         /* rounded corners */
   box-shadow: 0 2px 6px rgba(0,0,0,0.1); /* subtle shadow */
@@ -63,12 +63,12 @@ input{
 .card h2 {
   margin-bottom: 10px;
   font-size: 1.2rem;
-  color: #4a3f77;             /* purple text */
+  color: #ffffffff;             /* purple text */
 }
 
 .card p {
   font-size: 1rem;
-  color: #333;
+  color: #fffefeff;
 }
 
 
